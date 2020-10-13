@@ -1,2 +1,1 @@
-FROM hello-world
-CMD echo "Hello ... World!!!"
+FROM nginx
